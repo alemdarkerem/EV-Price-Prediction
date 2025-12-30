@@ -1,2 +1,3 @@
 # EV-Price-Prediction
-Electric Vehicle Price Prediction (Machine Learning Project)
+End-to-end machine learning pipeline for electric vehicle price prediction including EDA, preprocessing, feature engineering, and model optimization.
+
