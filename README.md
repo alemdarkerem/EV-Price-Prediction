@@ -26,7 +26,7 @@ The project follows a structured machine learning pipeline:
 8. Model evaluation and final selection
 
 ## Exploratory Data Analysis (EDA)
-![EDA Overview](images/eda_overview.png)
+![EDA Overview](images/eda_review.png)
 
 ## Models Evaluated
 - K-Nearest Neighbors (KNN)
