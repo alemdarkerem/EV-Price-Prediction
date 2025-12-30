@@ -49,6 +49,11 @@ After model comparison and tuning, **KNN** achieved the best performance.
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+## Results
+- Best performing model: K-Nearest Neighbors (KNN)
+- Optimized hyperparameter: n_neighbors = 3
+- Test accuracy: ~94%
+
 ## Future Improvements
 - Testing additional regression models
 - Incorporating market demand or sales data
